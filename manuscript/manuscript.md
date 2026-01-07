@@ -109,11 +109,11 @@ Table 1. List of insect visitors in the two sites
 
 Photographs of _A. bidentata_. (a) Stand of _A. bidentata_ in Kyoto. (b) Spike of _A. bidentata_. (c) Pollen on anther observed under electron microscopy. (d) A grain of pollen (indicated by yellow arrow) adhered to _Zizeeria maha_ ssp. _argia_. (e) Two grains of pollen adhered to _Apis cerana_ ssp. _japonica_. Scale bar = 14.2 μm for panels (c)–(e).  
 
-![Figure 2.](../figures/two_sites.pdf)  
+![Figure 2.](../figures/fig2_two_sites.pdf)  
 
 Community composition of flower visitors to _A. bidentata_ in the Kyoto and Mie sites. The colors distinguish the different orders of insect visitors. These community compositions significantly differed between the two sites (multinomial GLM, $p$<0.05: see also "Results").  
 
-![Figure 3.](../figures/visit_patterns.pdf)  
+![Figure 3.](../figures/fig3_visit_patterns.pdf)  
 
 Visiting patterns of two abundant insects (lycanid butterflies and honeybees) in Kyoto. (a) Visitation frequency of butterflies and honeybees within ten minitues. Grey and black bars indicate inter-individual (out) and intra-individual (in) floral visits, respectively. A single vertical bar corresponds to a 30-min observation (i.e., 30-min observation $\times$ five times on different dates; see also "Materials and Methods" for details). (b) Time spent on a single _A. bidentata_ spike. Box plots display the median with upper and lower quartiles, with whiskers extending to 1.5-times interquartile range. Different plot shapes distinguish the two study dates (see also "Materials and Methods"). (c and d) Histograms of the distance (cm) by butterfly or honeybee movement between two _A. bidentata_ spikes. Black, dark grey, and grey bars distinguish the three different dates of observation (see also "Materials and Methods"). In all panels, the difference between butterfly and honeybee was statistically significant at $p$<0.05 (see "Results" for the test-statistics and exact $p$-values).  
 
