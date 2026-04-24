@@ -1,5 +1,5 @@
 # Achyranthes
-Source code and data for "Recurrent visitation by diverse insects in an inconspicuous flowering plant _Achyranthes bidentata_ (Amaranthaceae)" by Y. Sato & T. Nishida.  
+Source code and data for "Recurrent visitation by lycaenid butterflies and honeybees to the same individuals of flowering plant _Achyranthes bidentata_ (Amaranthaceae)" by Y. Sato & T. Nishida.  
 
 ## data
 1. **distance_data.csv**  
@@ -18,39 +18,39 @@ The date of field observations (dd-mm-yyyy)
 2. **frequency_data.csv**  
 Data on the visitation frequency and intra/inter-individual movements of honeybees and lycaenid butterflies. The header information is as follows:  
 
-- date  
+- Date  
 The date of field observations (dd-mm-yyyy)  
 
-- type  
+- Type  
 Visitor type: 'honeybee' or 'butterfly'
 
-- out  
+- Out  
 No. of flower visits between _A. bidentata_ individuals
 
-- in.  
+- In  
 No. of flower visits within _A. bidentata_ individuals
 
-- total  
+- Total  
 Total no. of flower visits  
 
 
 3. **time_data.csv**  
 Data on the visitation time of honeybees and lycaenid butterflies spent on _A. bidentata_ spikes. The header information is as follows:  
 
-- honeybee  
+- Honeybee  
 Visitation time of honeybees (in x.xx sec.)
 
-- butterfly  
+- Butterfly  
 Visitation time of lycaenid butterflies (in x.xx sec.)
 
-- date  
+- Date  
 The date of field observations (dd-mm-yyyy)  
   
 
 4. **two_sites_data.csv**  
 Data on the community composition of flower visitors on _A. bidentata_ in Kyoto and Mie. The header information is as follows:  
 
-- site  
+- Site  
 Study sites: Kyoto or Mie, Japan  
 
 - Lepidoptera  
@@ -65,10 +65,10 @@ No. of visits by Diptera
 - Coleoptera  
 No. of visits by Coleoptera  
 
-- time  
+- Time  
 Observation time: morning (AM) or afternoon (PM)  
 
-- date  
+- Date  
 The date of field observations (dd-mm-yyyy)  
 
 
